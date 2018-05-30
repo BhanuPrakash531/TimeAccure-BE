@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: timeaccure-accessing-data-rest
+Implementation-Version: 0.1.0
+Built-By: MysoreVB
+Implementation-Vendor-Id: com.timesheet
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/timeaccure-a
+ ccessing-data-rest/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
