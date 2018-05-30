@@ -34,6 +34,7 @@ public class Department {
 	@Type(type="boolean")
 	private boolean enabled;
 	
+	//company
 	@OneToOne(fetch = FetchType.EAGER,cascade=CascadeType.ALL)
 	@JoinColumn(name = "company_id")
 	private Company company = new Company();
